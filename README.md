@@ -20,8 +20,8 @@ Region, Category, Subcategory, and Time Period filters for flexible data explora
 Drill-down functionality to move from summary metrics to detailed transaction data.
 
 **KPIs and Metrics:**
-Sales over time
-Top selling subcategories
-Sales by region
-Top states by Sales
-Other sales and profit metrics.
+- Sales over time
+- Top selling subcategories
+- Sales by region
+- Top states by Sales
+- Other sales and profit metrics.
