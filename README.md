@@ -26,3 +26,9 @@ Drill-down functionality to move from summary metrics to detailed transaction da
 - Sales by region
 - Top states by Sales
 - Other sales and profit metrics.
+
+**Project Contents:**
+- ReadMe.md
+- Tableau workbook
+- Excel data source
+
