@@ -5,7 +5,8 @@ This project leverages Tableau to analyze and visualize the Superstore dataset.
 The goal is to provide insights into sales, profit, and customer behavior through an interactive dashboard and various detailed views.
 
 <h4>Key Features:</h4>
-**Individual views are made indicating :**
+
+**Individual views are made indicating.**
 1. Regional sales: Percentage and total sales value of each region
 2. The top performing states with an option to modify the number of states visulaised as required.
 3. Top performing subcategories and their total sales
