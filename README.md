@@ -6,7 +6,7 @@ The goal is to provide insights into sales, profit, and customer behavior throug
 
 <h4>Key Features:</h4>
 
-**Individual views are made indicating.**
+**The following views were made:**
 1. Regional sales: Percentage and total sales value of each region
 2. The top performing states with an option to modify the number of states visulaised as required.
 3. Top performing subcategories and their total sales
